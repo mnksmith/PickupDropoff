@@ -19,7 +19,7 @@ In seeking hotspots of PUDO activity, we interpreted “clusters” as areas of 
 
 ## Methods
 
-This analysis focuses only on pick-up activity, expecting rideshare pick-ups to require more dwell time at the site of the pick-up.
+This analysis focuses only on pick-up activity, expecting rideshare pick-ups to require more dwell time at the site of the pick-up. Drop-off analysis would follow the same procedure.
 
 1. Read in trimmed data from Shared Streets (above) and Boston neighborhood boundary shapefile
 2. Divide City of Boston into regions based on neighborhood.  The regions are chosen based on proximity and similar PUDO activity patterns
