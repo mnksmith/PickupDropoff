@@ -1,5 +1,5 @@
 # Pickup/Dropoff Zones in Boston
-An analysis of Boston Pickup/Dropoff location data to inform the choice of designated rideshare zones
+An analysis of Boston Pickup/Dropoff location data to inform the choice of designated rideshare zones.
 
 ## Background
 
